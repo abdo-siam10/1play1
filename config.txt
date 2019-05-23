@@ -1,0 +1,6 @@
+owner=569947283421003777
+prefix=1
+game=Music  | Bplay
+stayinchannel=true
+songinstatus=false
+token=NTgxMTMzODExMDYwOTY1Mzg2.XOa1Ew.kSj-nLZaeXNXVlwVrSFGRdjewbo
